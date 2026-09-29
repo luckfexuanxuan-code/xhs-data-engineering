@@ -12,7 +12,7 @@
 
 任务调度 · 限速重试 · 去重增量 · 分层存储 · 指标体系 · 数据分析
 
-<img src="https://img.shields.io/github/last-commit/luckfexuanxuan-code/xhs-data-engineering?style=flat-square&label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0&labelColor=555555&color=C2692A" alt="最近更新"> <img src="https://img.shields.io/github/commit-activity/m/luckfexuanxuan-code/xhs-data-engineering?style=flat-square&label=%E6%9C%88%E6%8F%90%E4%BA%A4&labelColor=555555&color=C2692A" alt="月提交"> <img src="https://img.shields.io/badge/文档语言-简体中文-64748B?style=flat-square&labelColor=555555" alt="文档语言 简体中文">
+<img src="https://img.shields.io/github/last-commit/luckfexuanxuan-code/xhs-data-engineering?style=flat-square&label=%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0&labelColor=555555&color=C2692A" alt="最近更新"> <img src="https://img.shields.io/github/commit-activity/m/luckfexuanxuan-code/xhs-data-engineering?style=flat-square&label=%E6%9C%88%E6%8F%90%E4%BA%A4&labelColor=555555&color=C2692A" alt="月提交"> <img src="https://img.shields.io/badge/文档语言-简体中文-64748B?style=flat-square&labelColor=555555" alt="文档语言 简体中文"> <img src="https://img.shields.io/github/license/luckfexuanxuan-code/xhs-data-engineering?style=flat-square&label=%E8%AE%B8%E5%8F%AF%E8%AF%81&labelColor=555555&color=64748B" alt="许可证">
 
 [能采集什么](#data) · [工程问题](#challenges) · [整体架构](#architecture) · [模块设计](#modules) · [数据分析](#analysis) · [数据服务](#galaxy-api) · [合规须知](#compliance) · [交流合作](#contact)
 
@@ -175,6 +175,10 @@ flowchart TD
 ## 交流与合作
 
 数据采集方案咨询、技术交流与合作：Telegram [@luckfezx](https://t.me/luckfezx) · [galaxysapi.com](https://galaxysapi.com/?utm_source=github&utm_medium=readme&utm_campaign=xhs-data-engineering)
+
+## 许可证
+
+本项目基于 [MIT](./LICENSE) 许可证开源。
 
 ---
 
