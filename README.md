@@ -4,7 +4,7 @@
 
 ### 小红书数据采集 · 工程化实践 · 数据分析
 
-<img src="https://img.shields.io/badge/自%202026%20年%207%20月起-已持续维护%2082%20天-F26A1B?style=flat-square&labelColor=A33B0F" alt="自 2026 年 7 月起，已持续维护 82 天">
+<img src="https://img.shields.io/badge/自%202026%20年%207%20月起-已持续维护%2083%20天-F26A1B?style=flat-square&labelColor=A33B0F" alt="自 2026 年 7 月起，已持续维护 83 天">
 
 <img src="https://img.shields.io/badge/内容-采集%20·%20存储%20·%20分析%20·%20监控-2563EB?style=flat-square&labelColor=1D4ED8" alt="内容：采集、存储、分析、监控"> <img src="https://img.shields.io/badge/场景-舆情%20·%20竞品%20·%20达人分析-14B8A6?style=flat-square&labelColor=0F766E" alt="场景：舆情、竞品、达人分析">
 
@@ -182,4 +182,4 @@ flowchart TD
 
 ---
 
-最后更新：2026-10-08
+最后更新：2026-10-09
