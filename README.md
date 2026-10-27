@@ -154,7 +154,7 @@ flowchart TD
 
 为了方便大家使用，我们也提供现成的小红书数据服务 **Galaxy API**。上文架构中的数据源层可以直接接入它，省去登录态、请求参数与风控的维护，把精力放在调度、存储和分析上。
 
-[注册 / 获取 API Key](https://galaxysapi.com/login?utm_source=github&utm_medium=readme&utm_campaign=xhs-data-engineering) · [在线文档](https://api.galaxysapi.com/doc/) · [Telegram 咨询](https://t.me/luckfezx)
+[注册 / 获取 API Key](https://galaxysapi.com/login?utm_source=github&utm_medium=readme&utm_campaign=xhs-data-engineering) · [在线文档](https://api.galaxysapi.com/doc/?utm_source=github&utm_medium=readme&utm_campaign=xhs-data-engineering) · [Telegram 咨询](https://t.me/luckfezx)
 
 - **免维护**：无需账号、Cookie、代理，签名与风控由服务端处理
 - **仅成功扣费**：请求失败、异常均不扣费，按次计费
